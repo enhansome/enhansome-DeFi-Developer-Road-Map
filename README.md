@@ -84,7 +84,7 @@
 * Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 * Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
 * Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-* Learn the basics of [Computer Science](https://github.com/ossu/computer-science) ⭐ 207,939 | 🐛 24 | 🌐 HTML | 📅 2026-07-14
+* Learn the basics of [Computer Science](https://github.com/ossu/computer-science) ⭐ 207,942 | 🐛 24 | 🌐 HTML | 📅 2026-07-14
 * Learn DeFi In-Depth - just [watch this YouTube playlist](https://www.youtube.com/@campbellharvey/playlists)
 * Teach yourself crypto - visit [teachyourselfcrypto.com](https://teachyourselfcrypto.com)
 * [Try Capture The Ether Game](https://capturetheether.com/)
@@ -509,7 +509,7 @@
 
 #### Inspired by:
 
-* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 455,764 | 🐛 1,638 | 🌐 Python | 📅 2026-08-12
+* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 455,786 | 🐛 1,638 | 🌐 Python | 📅 2026-08-12
 * [Solidity Pro](https://github.com/bkrem/awesome-solidity) ⭐ 7,039 | 🐛 22 | 📅 2026-08-11
 * [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived
 * [Comprehensive Ethereum Developer Resource List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md) ⚠️ Archived

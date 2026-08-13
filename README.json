@@ -1081,7 +1081,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:44:33Z",
+            "last_commit": "2026-08-13T05:59:23Z",
             "owner": "MetaMask",
             "repo": "metamask-storybook",
             "stars": 36
@@ -1118,7 +1118,7 @@
             "last_commit": "2026-08-12T09:25:54Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 455764
+            "stars": 455786
           }
         },
         {
@@ -2527,7 +2527,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:36:20Z",
+            "last_commit": "2026-08-13T06:00:01Z",
             "owner": "erigontech",
             "repo": "erigon",
             "stars": 3581
@@ -2945,7 +2945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:45:13.813Z",
+    "last_updated": "2026-08-13T06:08:28.931Z",
     "original_repository": "OffcierCia/DeFi-Developer-Road-Map",
     "original_repository_sha": "ee712ce95161301bc83be4c3083c8cad8ffdd848",
     "enhanced_repository": "enhansome/enhansome-DeFi-Developer-Road-Map",
