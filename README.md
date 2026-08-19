@@ -10,14 +10,14 @@
 
 ## **Translations:**
 
-* [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Telugu](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_tel.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Yoruba](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_yor.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Telugu](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_tel.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Yoruba](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_yor.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
 * [Japanese](https://web.archive.org/web/20240225153745/https://www.wenyanet.com/opensource/ja/6304f1549168d4612c5c5064.html)
 
 </details>
@@ -32,37 +32,37 @@
 <summary>Translations</summary>
 <br />
 
-* [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Telugu](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_tel.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
-* [Yoruba](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_yor.md) ⭐ 10,806 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Telugu](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_tel.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
+* [Yoruba](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_yor.md) ⭐ 10,808 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-16
 * [Japanese](https://web.archive.org/web/20240225153745/https://www.wenyanet.com/opensource/ja/6304f1549168d4612c5c5064.html)
 
 </details>
 
 |       Topic      | Instant Link                                                                                                                                                                 |
 | :--------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      Basics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                   |
-|       dApps      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                    |
-|    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                               |
-|     zk-snarks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                |
-| Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                         |
-|     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                         |
-|       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                     |
-|        ENS       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                    |
-|        NFT       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                   |
-|   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                             |
-|   General Info   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                           |
-|    Side Chains   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                              |
-|        MEV       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16 |
-| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                         |
-|      ETH 2.0     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                              |
-|     Front End    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                |
-|  Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management) ⭐ 10,806 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                       |
+|      Basics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                   |
+|       dApps      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                    |
+|    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                               |
+|     zk-snarks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                |
+| Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                         |
+|     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                         |
+|       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                     |
+|        ENS       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                    |
+|        NFT       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                   |
+|   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                             |
+|   General Info   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                           |
+|    Side Chains   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                              |
+|        MEV       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16 |
+| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                         |
+|      ETH 2.0     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                              |
+|     Front End    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                                |
+|  Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management) ⭐ 10,808 \| 🐛 5 \| 🌐 JavaScript \| 📅 2026-08-16                                       |
 
 #
 
@@ -84,7 +84,7 @@
 * Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 * Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
 * Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-* Learn the basics of [Computer Science](https://github.com/ossu/computer-science) ⭐ 208,096 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
+* Learn the basics of [Computer Science](https://github.com/ossu/computer-science) ⭐ 208,145 | 🐛 25 | 🌐 HTML | 📅 2026-07-14
 * Learn DeFi In-Depth - just [watch this YouTube playlist](https://www.youtube.com/@campbellharvey/playlists)
 * Teach yourself crypto - visit [teachyourselfcrypto.com](https://teachyourselfcrypto.com)
 * [Try Capture The Ether Game](https://capturetheether.com/)
@@ -195,13 +195,13 @@
 * Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 * Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 * Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
-* Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,516 | 🐛 1 | 📅 2026-05-13 and watch [this channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
+* Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) ⭐ 21,518 | 🐛 1 | 📅 2026-05-13 and watch [this channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 * Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
 * Read [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
 
 #### Resources to learn Solidity
 
-* [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) ⭐ 14,032 | 🐛 27 | 🌐 Solidity | 📅 2026-08-14
+* [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity) ⭐ 14,033 | 🐛 27 | 🌐 Solidity | 📅 2026-08-14
 * [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2024-06-25
 * [cryptozombies.io](https://cryptozombies.io)
 * [smartcontract.engineer](https://www.smartcontract.engineer)
@@ -223,7 +223,7 @@
 #### Tokens
 
 * [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
-* [ERC-721](https://github.com/ethereum/eips/issues/721) ⭐ 13,954 | 🐛 503 | 🌐 Python | 📅 2026-08-17 - Token standard for non-fungible assets.
+* [ERC-721](https://github.com/ethereum/eips/issues/721) ⭐ 13,955 | 🐛 508 | 🌐 Python | 📅 2026-08-18 - Token standard for non-fungible assets.
 * [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Token standard for semi-fungible tokens
 * [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
 * [ERC-1363](https://eips.ethereum.org/EIPS/eip-1363) - Payable Token Standard.
@@ -238,7 +238,7 @@
 
 #### General Development Skills
 
-* [Viem Library](https://github.com/wagmi-dev/viem) ⭐ 3,533 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-18
+* [Viem Library](https://github.com/wagmi-dev/viem) ⭐ 3,536 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-19
 * [TypeChain Library](https://github.com/dethcrypto/TypeChain) ⭐ 2,793 | 🐛 127 | 🌐 TypeScript | 📅 2024-07-10
 * Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity) ⭐ 2,065 | 🐛 14 | 🌐 Solidity | 📅 2023-10-15
 * Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
@@ -258,9 +258,9 @@
 
 #### Try this tools:
 
-* [Web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,431 | 🐛 122 | 🌐 TypeScript | 📅 2026-08-17
+* [Web3modal](https://github.com/WalletConnect/web3modal) ⭐ 5,432 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-18
 * [REPL](https://github.com/raineorshine/solidity-repl) ⭐ 393 | 🐛 8 | 🌐 JavaScript | 📅 2021-08-18 - Solidity REPL.
-* [eth-cli](https://github.com/protofire/eth-cli) ⭐ 241 | 🐛 45 | 🌐 TypeScript | 📅 2023-01-03 - CLI tools.
+* [eth-cli](https://github.com/protofire/eth-cli) ⚠️ Archived - CLI tools.
 * [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) ⭐ 138 | 🐛 14 | 🌐 TypeScript | 📅 2026-06-26 - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
 * [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) ⭐ 3 | 🐛 1 | 🌐 HTML | 📅 2022-09-28 - An interactive smart contract encoder and sender from your ABI file
 * [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
@@ -280,7 +280,7 @@
 
 #### IDE's
 
-* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,180 | 🐛 694 | 🌐 Python | 📅 2026-08-12
+* [Vyper](https://github.com/vyperlang/vyper) ⭐ 5,179 | 🐛 694 | 🌐 Python | 📅 2026-08-12
 * [Remix IDE Desktop Release](https://github.com/ethereum/remix-desktop/releases) ⚠️ Archived
 * [Vim solidity](https://github.com/tomlion/vim-solidity) ⭐ 493 | 🐛 22 | 🌐 Vim script | 📅 2021-05-03
 * [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) ⚠️ Archived
@@ -303,7 +303,7 @@
 
 #### Practice
 
-* [Solidity Patterns](https://github.com/fravoll/solidity-patterns) ⭐ 3,323 | 🐛 2 | 🌐 Solidity | 📅 2024-04-19 - A compilation of patterns and best practices.
+* [Solidity Patterns](https://github.com/fravoll/solidity-patterns) ⭐ 3,324 | 🐛 2 | 🌐 Solidity | 📅 2024-04-19 - A compilation of patterns and best practices.
 * [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) ⚠️ Archived - A compilation of the worst patterns.
 * Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/)
 * [Yul and Some Solidity Optimizations and Tricks](https://hackmd.io/@gn56kcRBQc6mOi7LCgbv1g/rJez8O8st)
@@ -323,7 +323,7 @@
 
 #### General info
 
-* [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,803 | 🐛 16 | 📅 2026-01-23
+* [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,802 | 🐛 16 | 📅 2026-01-23
 * [ZoKrates](https://github.com/Zokrates/ZoKrates) ⭐ 1,873 | 🐛 115 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKS on Ethereum
 * [Awesome zk](https://github.com/ventali/awesome-zk) ⭐ 1,584 | 🐛 8 | 📅 2024-10-15
 * [NuCypher Network](https://github.com/nucypher/nucypher) ⭐ 706 | 🐛 112 | 🌐 Python | 📅 2026-05-24 - A proxy re-encryption network to empower data privacy in decentralized systems
@@ -399,10 +399,10 @@
 #### Other Frameworks
 
 * [Solmate](https://github.com/Rari-Capital/solmate) ⭐ 4,288 | 🐛 129 | 🌐 Solidity | 📅 2025-07-21 - These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development
-* [Embark](https://github.com/embark-framework/embark) ⭐ 3,772 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 - Framework for DApp development
+* [Embark](https://github.com/embark-framework/embark) ⭐ 3,771 | 🐛 134 | 🌐 JavaScript | 📅 2024-07-30 - Framework for DApp development
 * [Brownie](https://github.com/iamdefinitelyahuman/brownie) ⭐ 2,723 | 🐛 397 | 🌐 C | 📅 2026-08-05 - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 * [Starport](https://github.com/tendermint/starport) ⭐ 1,349 | 🐛 11 | 🌐 Go | 📅 2026-08-17 - A CLI tool for building sovereign IBC-enabled blockchains.
-* [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe) ⭐ 1,119 | 🐛 23 | 🌐 TypeScript | 📅 2025-05-30- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
+* [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe) ⭐ 1,119 | 🐛 24 | 🌐 TypeScript | 📅 2025-05-30- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
 * [Foundry](https://github.com/onbjerg/foundry-book) ⭐ 959 | 🐛 72 | 🌐 Solidity | 📅 2026-08-17 - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
 * [0xcert](https://github.com/0xcert/framework/) ⭐ 340 | 🐛 8 | 🌐 TypeScript | 📅 2023-03-28 - JavaScript framework for building decentralized applications
 * [Etherlime](https://github.com/LimeChain/etherlime) ⚠️ Archived - ethers.js based framework for Dapp deployment
@@ -443,8 +443,8 @@
 #### Test Blockchain Networks
 
 * [Ganache](https://github.com/trufflesuite/ganache) ⚠️ Archived - App for test Ethereum blockchain with visual UI and logs
-* [Artemis](https://github.com/PegaSysEng/artemis) ⭐ 777 | 🐛 230 | 🌐 Java | 📅 2026-08-18 - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
-* [Ethnode](https://github.com/vrde/ethnode) ⭐ 194 | 🐛 8 | 🌐 JavaScript | 📅 2023-07-11 - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
+* [Artemis](https://github.com/PegaSysEng/artemis) ⭐ 777 | 🐛 224 | 🌐 Java | 📅 2026-08-19 - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
+* [Ethnode](https://github.com/vrde/ethnode) ⭐ 193 | 🐛 8 | 🌐 JavaScript | 📅 2023-07-11 - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 * [Cliquebait](https://github.com/f-o-a-m/cliquebait) ⭐ 108 | 🐛 0 | 🌐 Shell | 📅 2023-11-01 - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resemble a real blockchain network
 * [Orion](https://github.com/PegaSysEng/orion) ⚠️ Archived - Component for performing private transactions by PegaSys
 * [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) ⚠️ Archived - Out-of-the-box deployment scripts for private PoA networks
@@ -478,12 +478,12 @@
 
 #### UI Components
 
-* [React Roadmap](https://github.com/adam-golab/react-developer-roadmap) ⭐ 18,929 | 🐛 35 | 🌐 JavaScript | 📅 2024-02-16
+* [React Roadmap](https://github.com/adam-golab/react-developer-roadmap) ⭐ 18,928 | 🐛 35 | 🌐 JavaScript | 📅 2024-02-16
 * [brave-ui](https://github.com/brave/brave-ui) ⚠️ Archived - List of reusable React components to empower your brave UI
 * [ui.decentraland.org](https://github.com/decentraland/ui) ⭐ 210 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-29 - A React library including Dapp components
 * [dapparatus](https://github.com/austintgriffith/dapparatus) ⭐ 192 | 🐛 28 | 🌐 JavaScript | 📅 2022-12-08 - Reusable React Dapp components
 * [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) ⭐ 49 | 🐛 0 | 🌐 C# | 📅 2023-09-18 - Cross-platform desktop wallet sample
-* [Metamask ui](https://github.com/MetaMask/metamask-storybook) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 - Metamask React Components
+* [Metamask ui](https://github.com/MetaMask/metamask-storybook) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - Metamask React Components
 * [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) ⭐ 9 | 🐛 1 | 🌐 C# | 📅 2019-05-02 - A cross-platform hybrid hosting mechanism for web based decentralised applications
 * Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
 * [aragonUI](https://ui.aragon.org) - A React library including Dapp components
@@ -509,12 +509,12 @@
 
 #### Inspired by:
 
-* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 463,376 | 🐛 1,684 | 🌐 Python | 📅 2026-08-17
-* [Solidity Pro](https://github.com/bkrem/awesome-solidity) ⭐ 7,043 | 🐛 24 | 📅 2026-08-11
+* [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency) ⭐ 464,863 | 🐛 1,698 | 🌐 Python | 📅 2026-08-18
+* [Solidity Pro](https://github.com/bkrem/awesome-solidity) ⭐ 7,043 | 🐛 24 | 📅 2026-08-18
 * [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived
 * [Comprehensive Ethereum Developer Resource List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md) ⚠️ Archived
 * [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,674 | 🐛 5 | 📅 2024-05-31
-* [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors) ⭐ 2,489 | 🐛 24 | 📅 2026-02-08
+* [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors) ⭐ 2,490 | 🐛 24 | 📅 2026-02-08
 * [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) ⭐ 1,768 | 🐛 4 | 📅 2024-06-17
 * [ADF](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,658 | 🐛 79 | 📅 2026-01-14
 * [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs) ⭐ 1,633 | 🐛 3 | 📅 2024-03-11
@@ -522,7 +522,7 @@
 * [SCSVS](https://github.com/securing/SCSVS) ⚠️ Archived
 * [DeFi Threats Base](https://github.com/freight-trust/defi-threat) ⭐ 502 | 🐛 19 | 🌐 JavaScript | 📅 2024-06-22
 * [EVM Tools](https://github.com/CoinCulture/evm-tools) ⭐ 447 | 🐛 5 | 🌐 Go | 📅 2021-06-26
-* [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero) ⭐ 326 | 🐛 0 | 🌐 HTML | 📅 2022-11-18
+* [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero) ⭐ 327 | 🐛 0 | 🌐 HTML | 📅 2022-11-18
 * [Hacking](https://github.com/geekshiv/Smart-Contract-Hacking) ⭐ 240 | 🐛 1 | 📅 2019-05-22
 * [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) ⭐ 216 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-07-29 with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2022-07-29
 * [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) ⭐ 174 | 🐛 6 | 📅 2022-05-19
@@ -624,7 +624,7 @@
 
 * [Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/) - A collection of Web3 wargamees inspired by [OverTheWire](https://overthewire.org/) in the context of the Ethereum Virtual Machine (EVM). Each level is a smart contract that needs to be hacked.
 * [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) - An offensive security playground to learn red team cybersecurity in the context of DeFi and smart contracts. Examples include tasks where the users needs to stop the system from working, take out funds from a contract...
-* [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) ⭐ 511 | 🐛 7 | 🌐 Solidity | 📅 2024-02-06 - Same as Damn Vulnerable DeFi but in the context of the foundry development framework.
+* [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) ⭐ 512 | 🐛 7 | 🌐 Solidity | 📅 2024-02-06 - Same as Damn Vulnerable DeFi but in the context of the foundry development framework.
 
 ##### Web3 CTF (Capture The Flag)
 
@@ -825,7 +825,7 @@
 
 #### Popular Smart Contract Libraries
 
-* [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,217 | 🐛 370 | 🌐 Solidity | 📅 2026-08-17 - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) ⚠️ Archived for smart contract upgradeability
+* [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,219 | 🐛 370 | 🌐 Solidity | 📅 2026-08-18 - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) ⚠️ Archived for smart contract upgradeability
 * [Provable API](https://github.com/provable-things/ethereum-api) ⭐ 799 | 🐛 18 | 🌐 Solidity | 📅 2024-06-08 - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
 * [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) ⭐ 432 | 🐛 1 | 🌐 Solidity | 📅 2024-03-21 - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
 * [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) ⭐ 370 | 🐛 6 | 🌐 Solidity | 📅 2022-08-05 - A gas-efficient Solidity date and time library
@@ -838,7 +838,7 @@
 
 #### Patterns for Smart Contracts
 
-* [OpenZeppelin Contracts: An open framework of reusable and secure smart contracts in the Solidity language.](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,217 | 🐛 370 | 🌐 Solidity | 📅 2026-08-17
+* [OpenZeppelin Contracts: An open framework of reusable and secure smart contracts in the Solidity language.](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,219 | 🐛 370 | 🌐 Solidity | 📅 2026-08-18
 * [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys) ⭐ 565 | 🐛 15 | 🌐 Nix | 📅 2022-03-12
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) ⭐ 368 | 🐛 1 | 📅 2023-03-06 - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [MakerDAO](https://github.com/makerdao/maker-otc) ⭐ 103 | 🐛 6 | 🌐 Solidity | 📅 2022-07-26
@@ -862,10 +862,10 @@
 
 #### Developer Tools
 
-* [Slither](https://github.com/crytic/slither) ⭐ 6,346 | 🐛 472 | 🌐 Python | 📅 2026-08-12 - A Solidity static analysis framework
-* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,261 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
+* [Slither](https://github.com/crytic/slither) ⭐ 6,345 | 🐛 473 | 🌐 Python | 📅 2026-08-12 - A Solidity static analysis framework
+* [Mythril](https://github.com/ConsenSys/mythril) ⭐ 4,263 | 🐛 129 | 🌐 Python | 📅 2026-04-27 - Open-source EVM bytecode security analysis tool
 * [Manticore](https://github.com/trailofbits/manticore) ⚠️ Archived - Symbolic execution tool on Smart Contracts and Binaries
-* [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,523 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
+* [Solidity security blog](https://github.com/sigp/solidity-security-blog) ⭐ 1,522 | 🐛 4 | 📅 2022-09-23 - Comprehensive list of known attack vectors and common anti-patterns
 * [Oyente](https://github.com/melonproject/oyente) ⚠️ Archived - Alternative static smart contract security analysis
 * [Solgraph](https://github.com/raineorshine/solgraph) ⭐ 1,028 | 🐛 5 | 🌐 JavaScript | 📅 2022-12-04 - Visualise Solidity control flow for smart contract security analysis
 * [Ethersplay](https://github.com/crytic/ethersplay) ⚠️ Archived - EVM disassembler
@@ -888,7 +888,7 @@
 
 * [Web3.js](https://github.com/ethereum/web3.js/) ⚠️ Archived - Javascript Web3
 * [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) ⚠️ Archived - Beginner friendly forkable github for getting started building smart contracts.
-* [Ethers.js](https://github.com/ethers-io/ethers.js/) ⭐ 8,711 | 🐛 657 | 🌐 TypeScript | 📅 2026-06-18 - Javascript Web3 alternative, useful utilities and wallet features
+* [Ethers.js](https://github.com/ethers-io/ethers.js/) ⭐ 8,712 | 🐛 659 | 🌐 TypeScript | 📅 2026-06-18 - Javascript Web3 alternative, useful utilities and wallet features
 * [create-eth-app](https://github.com/paulrberg/create-eth-app) ⚠️ Archived - Create Ethereum-powered front-end apps with one command.
 * [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) ⚠️ Archived - Typescript Web3 alternative
 * [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) ⚠️ Archived and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) ⚠️ Archived
@@ -919,7 +919,7 @@
 #### Backend Ethereum APIs
 
 * [Web3.py](https://github.com/ethereum/web3.py) ⭐ 5,521 | 🐛 170 | 🌐 Python | 📅 2026-05-01 - Python Web3
-* [Web3j](https://github.com/web3j/web3j) ⭐ 5,392 | 🐛 150 | 🌐 Java | 📅 2026-07-28 - Java Web3
+* [Web3j](https://github.com/web3j/web3j) ⭐ 5,392 | 🐛 146 | 🌐 Java | 📅 2026-08-18 - Java Web3
 * [ethers-rs](https://github.com/gakonst/ethers-rs/) ⚠️ Archived - Ethers-rs
 * [rust-web3](https://github.com/tomusdrw/rust-web3) ⭐ 1,509 | 🐛 105 | 🌐 Rust | 📅 2026-04-27 - Rust Web3
 * [Ethereum.rb](https://github.com/EthWorks/ethereum.rb) ⭐ 727 | 🐛 1 | 🌐 Ruby | 📅 2022-05-13 - Ruby Web3
@@ -940,12 +940,12 @@
 #### Ethereum Clients
 
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
-* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,580 | 🐛 645 | 🌐 Go | 📅 2026-08-18 - a mostly Go implementation of Ethereum client built on the efficiency frontier
+* [Erigon](https://github.com/ledgerwatch/erigon) ⭐ 3,580 | 🐛 646 | 🌐 Go | 📅 2026-08-19 - a mostly Go implementation of Ethereum client built on the efficiency frontier
 * [Trinity](https://trinity.ethereum.org/) - Python client using [py-evm](https://github.com/ethereum/py-evm) ⚠️ Archived
 * [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25 - Seth is an Ethereum client tool—like a "MetaMask for the command line"
-* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,585 | 🐛 404 | 🌐 C# | 📅 2026-08-18 - .NET Core client
+* [Nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,584 | 🐛 387 | 🌐 C# | 📅 2026-08-18 - .NET Core client
 * [Akula](https://github.com/akula-bft/akula) ⚠️ Archived - Rust implementation
-* [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) ⚠️ Archived - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) ⭐ 2,756 | 🐛 124 | 🌐 TypeScript | 📅 2026-08-17
+* [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) ⚠️ Archived - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) ⭐ 2,756 | 🐛 125 | 🌐 TypeScript | 📅 2026-08-18
 * [Awesome Quorum](https://github.com/ConsenSys/awesome-quorum) ⭐ 58 | 🐛 3 | 📅 2026-05-13 - A curated list of awesome software, libraries, tools and more to build on ConsenSys Quorum.
 * [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 * [Geth](https://geth.ethereum.org/docs/) - Go client
@@ -956,7 +956,7 @@
 
 #### Storage
 
-* [OrbitDB](https://github.com/orbitdb/orbit-db) ⭐ 8,793 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - Decentralised database on top of IPFS
+* [OrbitDB](https://github.com/orbitdb/orbit-db) ⭐ 8,794 | 🐛 25 | 🌐 JavaScript | 📅 2026-05-14 - Decentralised database on top of IPFS
 * [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) ⚠️ Archived - A client library for the IPFS HTTP API, implemented in JavaScript
 * [DB3 Network](https://github.com/dbpunk-labs/db3) ⭐ 385 | 🐛 37 | 🌐 Rust | 📅 2024-07-29 - Decentralized Firebase Firestore Alternative.
 * [Mahuta](https://github.com/ConsenSys/Mahuta) ⭐ 246 | 🐛 19 | 🌐 Java | 📅 2024-06-24 - IPFS Storage service with added search capability, formerly IPFS-Store
@@ -1014,7 +1014,7 @@
 * [Cliquebait](https://github.com/f-o-a-m/cliquebait) ⭐ 108 | 🐛 0 | 🌐 Shell | 📅 2023-11-01 - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
 * [Solidity function profiler](https://github.com/EricR/sol-function-profiler) ⭐ 80 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-14 - Solidity contract function profiler
 * [Espresso](https://github.com/hillstreetlabs/espresso) ⭐ 76 | 🐛 9 | 🌐 JavaScript | 📅 2018-06-08 - Speedy, parallelised, hot-reloading solidity test framework
-* [rocketh](https://github.com/wighawag/rocketh) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17 - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
+* [rocketh](https://github.com/wighawag/rocketh) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-18 - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 * [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) ⭐ 30 | 🐛 1 | 🌐 Solidity | 📅 2026-08-13 - Alternative and updated Solidity smart contract profiler
 * [pytest-cobra](https://github.com/cobraframework/pytest-cobra) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2022-12-08 - PyTest plugin for testing smart contracts for Ethereum blockchain.
 * [Psol](https://github.com/Lamarkaz/psol) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-10 - Solidity lexical preprocessor with mustache.js-style syntax, macros, conditional compilation and automatic remote dependency inclusion.
@@ -1027,7 +1027,7 @@
 #### Transaction Visualization, Scoring & Tracking:
 
 * Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20\&t=rFmBq_f9juLPNWslwrnB7Q)
-* Follow my project: [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,922 | 🐛 0 | 📅 2026-06-03
+* Follow my project: [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,924 | 🐛 0 | 📅 2026-06-03
 
 #### What's next?
 
@@ -1091,4 +1091,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
