@@ -15,7 +15,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         }
       ],
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10815
+            "stars": 10818
           }
         }
       ],
@@ -377,7 +377,7 @@
                 "archived": false,
                 "id": 476957520,
                 "language": "Solidity",
-                "last_commit": "2026-08-14T16:27:01Z",
+                "last_commit": "2026-08-23T11:53:30Z",
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
                 "stars": 14034
@@ -414,10 +414,10 @@
                 "archived": false,
                 "id": 516564547,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T02:14:43Z",
+                "last_commit": "2026-08-24T03:47:00Z",
                 "owner": "wevm",
                 "repo": "viem",
-                "stars": 3539
+                "stars": 3540
               }
             },
             {
@@ -469,7 +469,7 @@
                 "last_commit": "2026-08-21T16:30:12Z",
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5431
+                "stars": 5432
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2026-01-23T15:01:47Z",
                 "owner": "matter-labs",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5803
+                "stars": 5804
               }
             },
             {
@@ -872,7 +872,7 @@
                 "archived": false,
                 "id": 448159458,
                 "language": "Solidity",
-                "last_commit": "2026-08-20T08:58:00Z",
+                "last_commit": "2026-08-23T14:00:06Z",
                 "owner": "foundry-rs",
                 "repo": "book",
                 "stars": 959
@@ -984,7 +984,7 @@
                 "archived": false,
                 "id": 147802356,
                 "language": "Java",
-                "last_commit": "2026-08-22T22:50:21Z",
+                "last_commit": "2026-08-24T05:18:00Z",
                 "owner": "Consensys",
                 "repo": "teku",
                 "stars": 778
@@ -1105,7 +1105,7 @@
                 "last_commit": "2024-02-16T12:34:44Z",
                 "owner": "adam-golab",
                 "repo": "react-developer-roadmap",
-                "stars": 18924
+                "stars": 18923
               }
             },
             {
@@ -1177,7 +1177,7 @@
                 "archived": false,
                 "id": 236525992,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T05:16:21Z",
+                "last_commit": "2026-08-24T05:23:03Z",
                 "owner": "MetaMask",
                 "repo": "metamask-storybook",
                 "stars": 36
@@ -1289,7 +1289,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 468729
+                "stars": 469341
               }
             },
             {
@@ -1848,7 +1848,7 @@
                 "last_commit": "2026-08-21T14:31:31Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27227
+                "stars": 27230
               }
             },
             {
@@ -1990,7 +1990,7 @@
                 "last_commit": "2026-08-21T14:31:31Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27227
+                "stars": 27230
               }
             },
             {
@@ -2072,7 +2072,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6350
+                "stars": 6349
               }
             },
             {
@@ -2087,7 +2087,7 @@
                 "last_commit": "2026-04-27T04:13:25Z",
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4264
+                "stars": 4265
               }
             },
             {
@@ -2192,7 +2192,7 @@
                 "last_commit": "2022-05-09T03:43:06Z",
                 "owner": "Arachnid",
                 "repo": "evmdis",
-                "stars": 565
+                "stars": 566
               }
             },
             {
@@ -2289,7 +2289,7 @@
                 "last_commit": "2025-03-05T08:48:59Z",
                 "owner": "web3",
                 "repo": "web3.js",
-                "stars": 19920
+                "stars": 19919
               }
             },
             {
@@ -2563,7 +2563,7 @@
                 "archived": false,
                 "id": 56251096,
                 "language": "Python",
-                "last_commit": "2026-05-01T21:14:45Z",
+                "last_commit": "2026-08-23T23:05:41Z",
                 "owner": "ApeWorX",
                 "repo": "web3.py",
                 "stars": 5521
@@ -2765,7 +2765,7 @@
                 "archived": false,
                 "id": 188836864,
                 "language": "Go",
-                "last_commit": "2026-08-23T05:02:19Z",
+                "last_commit": "2026-08-24T05:22:06Z",
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3579
@@ -2810,7 +2810,7 @@
                 "archived": false,
                 "id": 101194285,
                 "language": "C#",
-                "last_commit": "2026-08-23T05:17:09Z",
+                "last_commit": "2026-08-24T04:55:06Z",
                 "owner": "NethermindEth",
                 "repo": "nethermind",
                 "stars": 1585
@@ -2962,7 +2962,7 @@
                 "last_commit": "2024-08-20T17:47:06Z",
                 "owner": "Uniswap",
                 "repo": "web3-react",
-                "stars": 5687
+                "stars": 5688
               }
             },
             {
@@ -3483,7 +3483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:17:18.080Z",
+    "last_updated": "2026-08-24T05:26:27.184Z",
     "original_repository": "OffcierCia/DeFi-Developer-Road-Map",
     "original_repository_id": 378536025,
     "original_repository_sha": "482c3bf574f45b582508224aae78d6c047dd5389",
