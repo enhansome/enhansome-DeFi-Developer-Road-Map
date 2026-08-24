@@ -131,6 +131,267 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Basics",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dApps",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frameworks",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zk-snarks",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Further Readings",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeFi",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENS",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFT",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Coins",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "General Info",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Side Chains",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEV",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tools Collection",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETH 2.0",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Front End",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Manag.",
+          "description": "Explore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378536025,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T23:17:39Z",
+            "owner": "OffcierCia",
+            "repo": "DeFi-Developer-Road-Map",
+            "stars": 10818
+          }
+        }
+      ],
+      "title": "Navigation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "French",
           "description": null,
           "children": [],
@@ -250,11 +511,26 @@
           }
         }
       ],
-      "title": "Navigation"
+      "title": "Translations"
     },
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Learn the basics of Computer Science",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19415064,
+            "language": "HTML",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 208380
+          }
+        },
         {
           "children": [
             {
@@ -370,6 +646,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Read Book Mastering Ethereum",
+              "description": "and watch this channel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65392364,
+                "language": null,
+                "last_commit": "2026-05-13T14:04:25Z",
+                "owner": "ethereumbook",
+                "repo": "ethereumbook",
+                "stars": 21519
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Contract"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "WTF Solidity",
               "description": null,
               "children": [],
@@ -380,7 +678,7 @@
                 "last_commit": "2026-08-23T11:53:30Z",
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14034
+                "stars": 14035
               }
             },
             {
@@ -407,6 +705,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "ERC-721",
+              "description": "Token standard for non-fungible assets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44971752,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:23:36Z",
+                "owner": "ethereum",
+                "repo": "EIPs",
+                "stars": 13956
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tokens"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Viem Library",
               "description": null,
               "children": [],
@@ -414,10 +734,10 @@
                 "archived": false,
                 "id": 516564547,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:47:00Z",
+                "last_commit": "2026-08-24T05:56:01Z",
                 "owner": "wevm",
                 "repo": "viem",
-                "stars": 3540
+                "stars": 3541
               }
             },
             {
@@ -466,10 +786,10 @@
                 "archived": false,
                 "id": 127246132,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:30:12Z",
+                "last_commit": "2026-08-24T10:19:23Z",
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5432
+                "stars": 5433
               }
             },
             {
@@ -557,7 +877,7 @@
                 "last_commit": "2026-08-12T18:27:52Z",
                 "owner": "vyperlang",
                 "repo": "vyper",
-                "stars": 5179
+                "stars": 5180
               }
             },
             {
@@ -790,6 +1110,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Akula",
+              "description": "an implementation of Ethereum protocol (\"client\") written in Rust, based on Erigon architecture.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 327140372,
+                "language": "Rust",
+                "last_commit": "2022-11-30T22:24:37Z",
+                "owner": "akula-bft",
+                "repo": "akula",
+                "stars": 786
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Akula"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Solmate",
               "description": "These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development",
               "children": [],
@@ -845,7 +1187,7 @@
                 "last_commit": "2026-08-17T13:39:47Z",
                 "owner": "ignite",
                 "repo": "cli",
-                "stars": 1349
+                "stars": 1350
               }
             },
             {
@@ -1084,6 +1426,28 @@
           "description": null,
           "node_type": "group",
           "title": "Test Blockchain Networks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nethereum.Faucet",
+              "description": "A C#/.NET faucet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93061730,
+                "language": "C#",
+                "last_commit": "2024-03-22T14:00:06Z",
+                "owner": "Nethereum",
+                "repo": "Nethereum.Faucet",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test Ether Faucets"
         }
       ],
       "title": "Frameworks"
@@ -1132,7 +1496,7 @@
                 "archived": false,
                 "id": 138225704,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T20:49:56Z",
+                "last_commit": "2026-08-24T13:39:33Z",
                 "owner": "decentraland",
                 "repo": "ui",
                 "stars": 211
@@ -1177,7 +1541,7 @@
                 "archived": false,
                 "id": 236525992,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:23:03Z",
+                "last_commit": "2026-08-24T13:52:38Z",
                 "owner": "MetaMask",
                 "repo": "metamask-storybook",
                 "stars": 36
@@ -1289,7 +1653,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 469341
+                "stars": 469628
               }
             },
             {
@@ -1304,7 +1668,7 @@
                 "last_commit": "2026-08-18T07:55:17Z",
                 "owner": "bkrem",
                 "repo": "awesome-solidity",
-                "stars": 7047
+                "stars": 7046
               }
             },
             {
@@ -1349,7 +1713,7 @@
                 "last_commit": "2024-05-31T07:11:11Z",
                 "owner": "protofire",
                 "repo": "blockchain-learning-path",
-                "stars": 2674
+                "stars": 2673
               }
             },
             {
@@ -1409,7 +1773,7 @@
                 "last_commit": "2024-03-11T14:55:28Z",
                 "owner": "blockthreat",
                 "repo": "blocksec-ctfs",
-                "stars": 1632
+                "stars": 1633
               }
             },
             {
@@ -1529,7 +1893,7 @@
                 "last_commit": "2022-05-19T01:02:10Z",
                 "owner": "defi-defense-dao",
                 "repo": "defi-risk-tools-list",
-                "stars": 174
+                "stars": 173
               }
             },
             {
@@ -1661,6 +2025,65 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Discord Security A-Z",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698007297,
+                "language": null,
+                "last_commit": "2023-10-03T03:20:35Z",
+                "owner": "0xngmi",
+                "repo": "discord-server-guidelines",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web3 Evasion Techniques",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669792734,
+                "language": "TeX",
+                "last_commit": "2026-02-07T06:11:58Z",
+                "owner": "apehex",
+                "repo": "web3-evasion-techniques",
+                "stars": 7
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Damn Vulnerable DeFi | Foundry",
+                  "description": "Same as Damn Vulnerable DeFi but in the context of the foundry development framework.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460547508,
+                    "language": "Solidity",
+                    "last_commit": "2024-02-06T16:13:56Z",
+                    "owner": "nicolasgarcia214",
+                    "repo": "damn-vulnerable-defi-foundry",
+                    "stars": 511
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web3 cybersecurity"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security & Safety:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "POA Bridge Contracts",
               "description": null,
               "children": [],
@@ -1693,6 +2116,28 @@
           "description": null,
           "node_type": "group",
           "title": "Side-Chains"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Specification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285476915,
+                "language": null,
+                "last_commit": "2024-07-03T14:33:00Z",
+                "owner": "ethereum",
+                "repo": "annotated-spec",
+                "stars": 359
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ethereum 2.0"
         }
       ],
       "title": "Further Readings"
@@ -1838,6 +2283,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "What to build?",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423085107,
+                "language": null,
+                "last_commit": "2024-05-31T21:25:30Z",
+                "owner": "0xngmi",
+                "repo": "ideas",
+                "stars": 371
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ideas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Zeppelin",
               "description": "Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK library for smart contract upgradeability",
               "children": [],
@@ -1845,10 +2312,10 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-21T14:31:31Z",
+                "last_commit": "2026-08-24T13:47:43Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27230
+                "stars": 27232
               }
             },
             {
@@ -1987,10 +2454,10 @@
                 "archived": false,
                 "id": 64700934,
                 "language": "Solidity",
-                "last_commit": "2026-08-21T14:31:31Z",
+                "last_commit": "2026-08-24T13:47:43Z",
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27230
+                "stars": 27232
               }
             },
             {
@@ -2072,7 +2539,7 @@
                 "last_commit": "2026-08-19T22:55:02Z",
                 "owner": "crytic",
                 "repo": "slither",
-                "stars": 6349
+                "stars": 6350
               }
             },
             {
@@ -2319,7 +2786,7 @@
                 "last_commit": "2026-06-18T05:08:13Z",
                 "owner": "ethers-io",
                 "repo": "ethers.js",
-                "stars": 8717
+                "stars": 8718
               }
             },
             {
@@ -2334,7 +2801,7 @@
                 "last_commit": "2024-04-10T08:13:43Z",
                 "owner": "WalletConnect",
                 "repo": "create-eth-app",
-                "stars": 2747
+                "stars": 2746
               }
             },
             {
@@ -2765,7 +3232,7 @@
                 "archived": false,
                 "id": 188836864,
                 "language": "Go",
-                "last_commit": "2026-08-24T05:22:06Z",
+                "last_commit": "2026-08-24T13:47:57Z",
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3579
@@ -2810,7 +3277,7 @@
                 "archived": false,
                 "id": 101194285,
                 "language": "C#",
-                "last_commit": "2026-08-24T04:55:06Z",
+                "last_commit": "2026-08-24T13:46:26Z",
                 "owner": "NethermindEth",
                 "repo": "nethermind",
                 "stars": 1585
@@ -2880,7 +3347,7 @@
                 "last_commit": "2026-05-14T14:56:57Z",
                 "owner": "orbitdb",
                 "repo": "orbitdb",
-                "stars": 8796
+                "stars": 8797
               }
             },
             {
@@ -2977,7 +3444,7 @@
                 "last_commit": "2024-04-10T08:13:43Z",
                 "owner": "WalletConnect",
                 "repo": "create-eth-app",
-                "stars": 2747
+                "stars": 2746
               }
             },
             {
@@ -3477,13 +3944,57 @@
             "repo": "decode",
             "stars": 6
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Follow my project: On-Chain Investigations Tools List",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568727854,
+                "language": null,
+                "last_commit": "2026-06-03T14:21:13Z",
+                "owner": "OffcierCia",
+                "repo": "On-Chain-Investigations-Tools-List",
+                "stars": 1927
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Transaction Visualization, Scoring & Tracking:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bbscope",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 318600060,
+                "language": "Go",
+                "last_commit": "2026-07-06T01:28:02Z",
+                "owner": "sw33tLie",
+                "repo": "bbscope",
+                "stars": 1431
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Work...?"
         }
       ],
       "title": "Testing Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:26:27.184Z",
+    "last_updated": "2026-08-24T13:54:10.422Z",
     "original_repository": "OffcierCia/DeFi-Developer-Road-Map",
     "original_repository_id": 378536025,
     "original_repository_sha": "482c3bf574f45b582508224aae78d6c047dd5389",
