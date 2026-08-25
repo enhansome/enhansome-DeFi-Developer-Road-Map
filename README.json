@@ -1653,7 +1653,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 469987
+                "stars": 469999
               }
             },
             {
@@ -3048,7 +3048,7 @@
                 "last_commit": "2026-08-18T13:44:09Z",
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5391
+                "stars": 5392
               }
             },
             {
@@ -3232,7 +3232,7 @@
                 "archived": false,
                 "id": 188836864,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:14:16Z",
+                "last_commit": "2026-08-25T05:31:28Z",
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3579
@@ -3994,7 +3994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:20:29.000Z",
+    "last_updated": "2026-08-25T05:44:42.862Z",
     "original_repository": "OffcierCia/DeFi-Developer-Road-Map",
     "original_repository_id": 378536025,
     "original_repository_sha": "482c3bf574f45b582508224aae78d6c047dd5389",
