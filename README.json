@@ -5,1082 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "French",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Korean",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Italiano",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Telugu",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Gujarati",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spanish",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Chinese",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Yoruba",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        }
-      ],
-      "title": "Translations:"
-    },
-    {
-      "description": "| Special Notes:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Basics",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "dApps",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Frameworks",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "zk-snarks",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Further Readings",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Security",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DeFi",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ENS",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NFT",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Stable Coins",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General Info",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Side Chains",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MEV",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tools Collection",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ETH 2.0",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Front End",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Project Manag.",
-          "description": "Explore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        }
-      ],
-      "title": "Navigation"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "French",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Korean",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Italiano",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Telugu",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Gujarati",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spanish",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Chinese",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Yoruba",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
-            "homepage": "https://officercia.medium.com/",
-            "id": 378536025,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 10,
-            "owner": "OffcierCia",
-            "repo": "DeFi-Developer-Road-Map",
-            "stars": 10846,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "blockchain",
-              "curated-list",
-              "defi",
-              "ethereum",
-              "knowledge-base",
-              "roadmap",
-              "smart-contracts",
-              "solidity"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:28.373Z"
-        }
-      ],
-      "title": "Translations"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "Learn the basics of Computer Science",
-          "description": null,
+          "description": "ossu/computer-science",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1093,7 +19,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209684,
+            "stars": 209701,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -1108,7 +34,7 @@
             {
               "node_type": "item",
               "title": "Academic_Smart_Contract_Papers",
-              "description": null,
+              "description": "hzysvilla/Academic_Smart_Contract_Papers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1129,7 +55,7 @@
             {
               "node_type": "item",
               "title": "EVM Chad",
-              "description": null,
+              "description": "mektigboy/evm-chad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1157,7 +83,7 @@
             {
               "node_type": "item",
               "title": "Useful Solidity Patterns",
-              "description": null,
+              "description": "dragonfly-xyz/useful-solidity-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1178,7 +104,7 @@
             {
               "node_type": "item",
               "title": "Smart Contract Auditing Checklist",
-              "description": null,
+              "description": "vishnuram1999/audits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1220,7 +146,7 @@
             {
               "node_type": "item",
               "title": "Useful Solidity Patterns",
-              "description": null,
+              "description": "dragonfly-xyz/useful-solidity-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1241,7 +167,7 @@
             {
               "node_type": "item",
               "title": "WTF Gas Optimisation",
-              "description": null,
+              "description": "WTFAcademy/WTF-gas-optimization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1254,7 +180,7 @@
                 "open_issues": 0,
                 "owner": "WTFAcademy",
                 "repo": "WTF-gas-optimization",
-                "stars": 230,
+                "stars": 229,
                 "topics": [
                   "blockchain",
                   "dapp",
@@ -1289,7 +215,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21534,
+                "stars": 21535,
                 "topics": [
                   "blockchain",
                   "book",
@@ -1317,7 +243,7 @@
             {
               "node_type": "item",
               "title": "WTF Solidity",
-              "description": null,
+              "description": "AmazingAng/WTF-Solidity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1330,7 +256,7 @@
                 "open_issues": 32,
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14061,
+                "stars": 14056,
                 "topics": [
                   "airdrop",
                   "auction",
@@ -1356,7 +282,7 @@
             {
               "node_type": "item",
               "title": "Slitherin: Slither Detectors by Pessimistic.io",
-              "description": null,
+              "description": "pessimistic-io/slitherin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1403,7 +329,7 @@
                 "open_issues": 527,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 13994,
+                "stars": 13993,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -1418,7 +344,7 @@
             {
               "node_type": "item",
               "title": "Viem Library",
-              "description": null,
+              "description": "wevm/viem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1428,7 +354,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T08:19:07Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "wevm",
                 "repo": "viem",
                 "stars": 3573,
@@ -1450,7 +376,7 @@
             {
               "node_type": "item",
               "title": "TypeChain Library",
-              "description": null,
+              "description": "dethcrypto/TypeChain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1463,7 +389,7 @@
                 "open_issues": 127,
                 "owner": "dethcrypto",
                 "repo": "TypeChain",
-                "stars": 2790,
+                "stars": 2789,
                 "topics": [
                   "abi",
                   "blockchain",
@@ -1480,7 +406,7 @@
             {
               "node_type": "item",
               "title": "Free tutorial Learning Solidity",
-              "description": null,
+              "description": "willitscale/learning-solidity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1510,7 +436,7 @@
             {
               "node_type": "item",
               "title": "Web3modal",
-              "description": null,
+              "description": "reown-com/appkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1519,11 +445,11 @@
                 "id": 127246132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:26:37Z",
+                "last_commit": "2026-10-02T18:19:49Z",
                 "open_issues": 133,
                 "owner": "reown-com",
                 "repo": "appkit",
-                "stars": 5447,
+                "stars": 5448,
                 "topics": [
                   "dapps",
                   "ethereum",
@@ -1659,7 +585,7 @@
             {
               "node_type": "item",
               "title": "Vyper",
-              "description": null,
+              "description": "vyperlang/vyper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1668,11 +594,11 @@
                 "id": 73461676,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T09:55:03Z",
+                "last_commit": "2026-10-02T15:59:35Z",
                 "open_issues": 626,
                 "owner": "vyperlang",
                 "repo": "vyper",
-                "stars": 5185,
+                "stars": 5184,
                 "topics": [
                   "ethereum",
                   "ethereum-dapp",
@@ -1686,7 +612,7 @@
             {
               "node_type": "item",
               "title": "Remix IDE Desktop Release",
-              "description": null,
+              "description": "ethereum/remix-desktop",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1707,7 +633,7 @@
             {
               "node_type": "item",
               "title": "Vim solidity",
-              "description": null,
+              "description": "tomlion/vim-solidity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1728,7 +654,7 @@
             {
               "node_type": "item",
               "title": "YAKINDU Solidity Tools",
-              "description": null,
+              "description": "itemisCREATE/solidity-ide",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1760,7 +686,7 @@
             {
               "node_type": "item",
               "title": "Vim vyper",
-              "description": null,
+              "description": "vyperlang/vim-vyper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1852,7 +778,7 @@
             {
               "node_type": "item",
               "title": "Awesome zero knowledge proofs",
-              "description": null,
+              "description": "matter-labs/awesome-zero-knowledge-proofs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1907,7 +833,7 @@
             {
               "node_type": "item",
               "title": "Awesome zk",
-              "description": null,
+              "description": "ventali/awesome-zk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1941,7 +867,7 @@
                 "open_issues": 112,
                 "owner": "nucypher",
                 "repo": "nucypher",
-                "stars": 705,
+                "stars": 704,
                 "topics": [
                   "access-control",
                   "cryptography",
@@ -2214,8 +1140,8 @@
                 "id": 448159458,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:10:42Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-02T16:20:37Z",
+                "open_issues": 75,
                 "owner": "foundry-rs",
                 "repo": "book",
                 "stars": 964,
@@ -2416,8 +1342,8 @@
                 "id": 147802356,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:39:12Z",
-                "open_issues": 221,
+                "last_commit": "2026-10-02T21:45:53Z",
+                "open_issues": 220,
                 "owner": "Consensys-Incorporated",
                 "repo": "teku",
                 "stars": 781,
@@ -2616,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "React Roadmap",
-              "description": null,
+              "description": "adam-golab/react-developer-roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2780,7 +1706,7 @@
         {
           "node_type": "item",
           "title": "Valuable Resources for Web3 Security",
-          "description": null,
+          "description": "ZhangZhuoSJTU/Web3Bugs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2801,7 +1727,7 @@
         {
           "node_type": "item",
           "title": "SCSVS",
-          "description": null,
+          "description": "ComposableSecurity/SCSVS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2822,7 +1748,7 @@
         {
           "node_type": "item",
           "title": "SCSVSv2",
-          "description": null,
+          "description": "ComposableSecurity/SCSVS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2843,7 +1769,7 @@
         {
           "node_type": "item",
           "title": "Solidity audits and secure development material",
-          "description": null,
+          "description": "Faillapop/faillapop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2886,7 +1812,7 @@
             {
               "node_type": "item",
               "title": "Public APIs",
-              "description": null,
+              "description": "public-apis/public-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2895,11 +1821,11 @@
                 "id": 54346799,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T21:21:39Z",
-                "open_issues": 1991,
+                "last_commit": "2026-10-02T22:24:14Z",
+                "open_issues": 1987,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 485402,
+                "stars": 485595,
                 "topics": [
                   "api",
                   "apis",
@@ -2921,7 +1847,7 @@
             {
               "node_type": "item",
               "title": "Solidity Pro",
-              "description": null,
+              "description": "bkrem/awesome-solidity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2934,7 +1860,7 @@
                 "open_issues": 14,
                 "owner": "bkrem",
                 "repo": "awesome-solidity",
-                "stars": 7052,
+                "stars": 7051,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2963,7 +1889,7 @@
             {
               "node_type": "item",
               "title": "ConsenSys",
-              "description": null,
+              "description": "Consensys/ethereum-developer-tools-list",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2984,7 +1910,7 @@
             {
               "node_type": "item",
               "title": "Comprehensive Ethereum Developer Resource List",
-              "description": null,
+              "description": "Consensys/ethereum-developer-tools-list",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3005,7 +1931,7 @@
             {
               "node_type": "item",
               "title": "Blockchain Learning Path",
-              "description": null,
+              "description": "protofire/blockchain-learning-path",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3026,7 +1952,7 @@
             {
               "node_type": "item",
               "title": "Smart Contract Attack Vectors",
-              "description": null,
+              "description": "kadenzipfel/smart-contract-vulnerabilities",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3052,7 +1978,7 @@
             {
               "node_type": "item",
               "title": "Awesome Cryptoeconomics",
-              "description": null,
+              "description": "jpantunes/awesome-cryptoeconomics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3082,7 +2008,7 @@
             {
               "node_type": "item",
               "title": "ADF",
-              "description": null,
+              "description": "ong/awesome-decentralized-finance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3112,7 +2038,7 @@
             {
               "node_type": "item",
               "title": "Blocksec ctfs",
-              "description": null,
+              "description": "blockthreat/blocksec-ctfs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3133,7 +2059,7 @@
             {
               "node_type": "item",
               "title": "BTC List",
-              "description": null,
+              "description": "igorbarinov/awesome-bitcoin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3143,7 +2069,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-29T19:08:10Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "igorbarinov",
                 "repo": "awesome-bitcoin",
                 "stars": 1356,
@@ -3154,7 +2080,7 @@
             {
               "node_type": "item",
               "title": "SCSVS",
-              "description": null,
+              "description": "securing/SCSVS",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3167,7 +2093,7 @@
                 "open_issues": 6,
                 "owner": "securing",
                 "repo": "SCSVS",
-                "stars": 629,
+                "stars": 628,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -3175,7 +2101,7 @@
             {
               "node_type": "item",
               "title": "DeFi Threats Base",
-              "description": null,
+              "description": "manifoldfinance/defi-threat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3214,7 +2140,7 @@
             {
               "node_type": "item",
               "title": "EVM Tools",
-              "description": null,
+              "description": "CoinCulture/evm-tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3238,7 +2164,7 @@
             {
               "node_type": "item",
               "title": "From 0 to Web3.0",
-              "description": null,
+              "description": "kay-is/web3-from-zero",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3264,7 +2190,7 @@
             {
               "node_type": "item",
               "title": "Hacking",
-              "description": null,
+              "description": "geekshiv/Smart-Contract-Hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3277,7 +2203,7 @@
                 "open_issues": 1,
                 "owner": "geekshiv",
                 "repo": "Smart-Contract-Hacking",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -3327,7 +2253,7 @@
             {
               "node_type": "item",
               "title": "DeFi Defence DAO Tools",
-              "description": null,
+              "description": "defi-defense-dao/defi-risk-tools-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3348,7 +2274,7 @@
             {
               "node_type": "item",
               "title": "Smart Contract Inspector",
-              "description": null,
+              "description": "tintinweb/smart-contract-inspector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3369,7 +2295,7 @@
             {
               "node_type": "item",
               "title": "ETH Dapp Developer Roadmap",
-              "description": null,
+              "description": "thecryptoshed/eth-dapp-developer-roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3390,7 +2316,7 @@
             {
               "node_type": "item",
               "title": "Eth Reentrancy Attack Patterns",
-              "description": null,
+              "description": "uni-due-syssec/eth-reentrancy-attack-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3411,7 +2337,7 @@
             {
               "node_type": "item",
               "title": "DeFi Toolkit",
-              "description": null,
+              "description": "gweicz/defi-toolkit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3432,7 +2358,7 @@
             {
               "node_type": "item",
               "title": "Solidity function profiler",
-              "description": null,
+              "description": "EricR/sol-function-profiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3456,7 +2382,7 @@
             {
               "node_type": "item",
               "title": "BlockTools",
-              "description": null,
+              "description": "nujabes403/blockchains-tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3477,7 +2403,7 @@
             {
               "node_type": "item",
               "title": "Plugin for testing smart contracts",
-              "description": null,
+              "description": "meherett/pytest-solidity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3508,7 +2434,7 @@
             {
               "node_type": "item",
               "title": "Smart Contract Learning",
-              "description": null,
+              "description": "arbazkiraak/SmartContractLearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3536,7 +2462,7 @@
             {
               "node_type": "item",
               "title": "Discord Security A-Z",
-              "description": null,
+              "description": "0xngmi/discord-server-guidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3557,7 +2483,7 @@
             {
               "node_type": "item",
               "title": "Web3 Evasion Techniques",
-              "description": null,
+              "description": "apehex/web3-evasion-techniques",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3623,7 +2549,7 @@
             {
               "node_type": "item",
               "title": "POA Bridge Contracts",
-              "description": null,
+              "description": "omni/tokenbridge-contracts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3648,7 +2574,7 @@
             {
               "node_type": "item",
               "title": "POA Bridge UI",
-              "description": null,
+              "description": "omni/bridge-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3681,7 +2607,7 @@
             {
               "node_type": "item",
               "title": "Specification",
-              "description": null,
+              "description": "ethereum/annotated-spec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3715,7 +2641,7 @@
             {
               "node_type": "item",
               "title": "TypeChain",
-              "description": null,
+              "description": "dethcrypto/TypeChain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3728,7 +2654,7 @@
                 "open_issues": 127,
                 "owner": "dethcrypto",
                 "repo": "TypeChain",
-                "stars": 2790,
+                "stars": 2789,
                 "topics": [
                   "abi",
                   "blockchain",
@@ -3745,7 +2671,7 @@
             {
               "node_type": "item",
               "title": "Solhint",
-              "description": null,
+              "description": "protofire/solhint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3754,7 +2680,7 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T16:27:03Z",
+                "last_commit": "2026-10-02T13:09:11Z",
                 "open_issues": 4,
                 "owner": "protofire",
                 "repo": "solhint",
@@ -3777,7 +2703,7 @@
             {
               "node_type": "item",
               "title": "Solidity-coverage",
-              "description": null,
+              "description": "sc-forks/solidity-coverage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3798,7 +2724,7 @@
             {
               "node_type": "item",
               "title": "Solium",
-              "description": null,
+              "description": "duaraghav8/Ethlint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3825,7 +2751,7 @@
             {
               "node_type": "item",
               "title": "Vanity Generator",
-              "description": null,
+              "description": "johguse/profanity",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3838,7 +2764,7 @@
                 "open_issues": 44,
                 "owner": "johguse",
                 "repo": "profanity",
-                "stars": 846,
+                "stars": 844,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -3846,7 +2772,7 @@
             {
               "node_type": "item",
               "title": "ERC20 Meta Token Wrapper",
-              "description": null,
+              "description": "0xsequence/erc20-meta-token",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3871,7 +2797,7 @@
             {
               "node_type": "item",
               "title": "Cancel Ethereum Transaction",
-              "description": null,
+              "description": "mds1/Cancel-Ethereum-Transactions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3927,7 +2853,7 @@
             {
               "node_type": "item",
               "title": "What to build?",
-              "description": null,
+              "description": "0xngmi/ideas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3965,10 +2891,10 @@
                 "language": "Solidity",
                 "license": "MIT",
                 "last_commit": "2026-10-01T13:14:16Z",
-                "open_issues": 357,
+                "open_issues": 358,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27262,
+                "stars": 27266,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -4200,7 +3126,7 @@
             {
               "node_type": "item",
               "title": "OpenZeppelin Contracts: An open framework of reusable and secure smart contracts in the Solidity language.",
-              "description": null,
+              "description": "OpenZeppelin/openzeppelin-contracts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4210,10 +3136,10 @@
                 "language": "Solidity",
                 "license": "MIT",
                 "last_commit": "2026-10-01T13:14:16Z",
-                "open_issues": 357,
+                "open_issues": 358,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27262,
+                "stars": 27266,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -4227,7 +3153,7 @@
             {
               "node_type": "item",
               "title": "Dappsys: Safe, simple, and flexible Ethereum contract building blocks",
-              "description": null,
+              "description": "dapphub/dappsys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4277,7 +3203,7 @@
             {
               "node_type": "item",
               "title": "MakerDAO",
-              "description": null,
+              "description": "daifoundation/maker-otc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4302,7 +3228,7 @@
             {
               "node_type": "item",
               "title": "Proxy Patterns",
-              "description": null,
+              "description": "gotnoshoeson/se-transparent-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4369,7 +3295,7 @@
                 "open_issues": 130,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4277,
+                "stars": 4276,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -4721,7 +3647,7 @@
                 "open_issues": 144,
                 "owner": "web3",
                 "repo": "web3.js",
-                "stars": 19913,
+                "stars": 19912,
                 "topics": [
                   "abi-decoders",
                   "abi-encoders",
@@ -4785,7 +3711,7 @@
                 "open_issues": 666,
                 "owner": "ethers-io",
                 "repo": "ethers.js",
-                "stars": 8712,
+                "stars": 8711,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -5029,7 +3955,7 @@
             {
               "node_type": "item",
               "title": "elm-ethereum",
-              "description": null,
+              "description": "cmditch/elm-ethereum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5087,7 +4013,7 @@
             {
               "node_type": "item",
               "title": "purescript-web3",
-              "description": null,
+              "description": "f-o-a-m/purescript-web3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5251,10 +4177,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T16:23:04Z",
-                "open_issues": 167,
+                "open_issues": 169,
                 "owner": "ApeWorX",
                 "repo": "web3.py",
-                "stars": 5539,
+                "stars": 5538,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -5271,11 +4197,11 @@
                 "id": 67328052,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T08:05:43Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-02T15:24:30Z",
+                "open_issues": 154,
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5404,
+                "stars": 5403,
                 "topics": [
                   "android",
                   "blockchain",
@@ -5307,7 +4233,7 @@
                 "open_issues": 213,
                 "owner": "gakonst",
                 "repo": "ethers-rs",
-                "stars": 2508,
+                "stars": 2506,
                 "topics": [
                   "celo",
                   "ethereum",
@@ -5410,7 +4336,7 @@
                 "open_issues": 27,
                 "owner": "digitaldonkey",
                 "repo": "ethereum-php",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "ethereum",
                   "ethereum-client",
@@ -5594,8 +4520,8 @@
                 "id": 188836864,
                 "language": "Go",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-02T10:41:28Z",
-                "open_issues": 722,
+                "last_commit": "2026-10-03T04:27:34Z",
+                "open_issues": 723,
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3586,
@@ -5672,8 +4598,8 @@
                 "id": 101194285,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T10:40:55Z",
-                "open_issues": 333,
+                "last_commit": "2026-10-03T03:49:54Z",
+                "open_issues": 343,
                 "owner": "NethermindEth",
                 "repo": "nethermind",
                 "stars": 1608,
@@ -5788,10 +4714,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-05-14T14:56:57Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "orbitdb",
                 "repo": "orbitdb",
-                "stars": 8814,
+                "stars": 8813,
                 "topics": [
                   "crdt",
                   "database",
@@ -5951,7 +4877,7 @@
                 "open_issues": 176,
                 "owner": "Uniswap",
                 "repo": "web3-react",
-                "stars": 5685,
+                "stars": 5684,
                 "topics": [
                   "dapp",
                   "ethereum",
@@ -6279,7 +5205,7 @@
                 "id": 143644382,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:06:41Z",
+                "last_commit": "2026-10-03T01:10:13Z",
                 "open_issues": 0,
                 "owner": "esaulpaugh",
                 "repo": "headlong",
@@ -6435,7 +5361,7 @@
             "id": 107120334,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:27:03Z",
+            "last_commit": "2026-10-02T13:09:11Z",
             "open_issues": 4,
             "owner": "protofire",
             "repo": "solhint",
@@ -6843,7 +5769,7 @@
             {
               "node_type": "item",
               "title": "Follow my project: On-Chain Investigations Tools List",
-              "description": null,
+              "description": "OffcierCia/On-Chain-Investigations-Tools-List",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6856,7 +5782,7 @@
                 "open_issues": 11,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
-                "stars": 1954,
+                "stars": 1955,
                 "topics": [
                   "aml",
                   "awesome",
@@ -6887,7 +5813,7 @@
             {
               "node_type": "item",
               "title": "bbscope",
-              "description": null,
+              "description": "sw33tLie/bbscope",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6915,7 +5841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:45:22.748Z",
+    "last_updated": "2026-10-03T04:27:43.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
