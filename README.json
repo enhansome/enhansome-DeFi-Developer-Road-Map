@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209900,
+            "stars": 209901,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -1822,10 +1822,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T22:52:00Z",
-                "open_issues": 2029,
+                "open_issues": 2030,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 486441,
+                "stars": 486452,
                 "topics": [
                   "api",
                   "apis",
@@ -4520,8 +4520,8 @@
                 "id": 188836864,
                 "language": "Go",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-06T10:39:53Z",
-                "open_issues": 745,
+                "last_commit": "2026-10-06T11:12:45Z",
+                "open_issues": 744,
                 "owner": "erigontech",
                 "repo": "erigon",
                 "stars": 3585,
@@ -4598,8 +4598,8 @@
                 "id": 101194285,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T11:00:59Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-06T11:31:56Z",
+                "open_issues": 310,
                 "owner": "NethermindEth",
                 "repo": "nethermind",
                 "stars": 1612,
@@ -5841,7 +5841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:05:03.255Z",
+    "last_updated": "2026-10-06T11:33:00.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
