@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211016,
+            "stars": 211060,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -215,7 +215,7 @@
                 "open_issues": 1,
                 "owner": "ethereumbook",
                 "repo": "ethereumbook",
-                "stars": 21543,
+                "stars": 21545,
                 "topics": [
                   "blockchain",
                   "book",
@@ -256,7 +256,7 @@
                 "open_issues": 25,
                 "owner": "AmazingAng",
                 "repo": "WTF-Solidity",
-                "stars": 14062,
+                "stars": 14063,
                 "topics": [
                   "airdrop",
                   "auction",
@@ -326,10 +326,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-07T21:56:30Z",
-                "open_issues": 559,
+                "open_issues": 560,
                 "owner": "ethereum",
                 "repo": "EIPs",
-                "stars": 14068,
+                "stars": 14069,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -353,11 +353,11 @@
                 "id": 516564547,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T04:01:16Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-09T18:03:28Z",
+                "open_issues": 13,
                 "owner": "wevm",
                 "repo": "viem",
-                "stars": 3636,
+                "stars": 3635,
                 "topics": [
                   "abi",
                   "blockchain",
@@ -389,7 +389,7 @@
                 "open_issues": 127,
                 "owner": "dethcrypto",
                 "repo": "TypeChain",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": [
                   "abi",
                   "blockchain",
@@ -445,8 +445,8 @@
                 "id": 127246132,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T05:32:07Z",
-                "open_issues": 144,
+                "last_commit": "2026-11-10T11:50:07Z",
+                "open_issues": 145,
                 "owner": "reown-com",
                 "repo": "appkit",
                 "stars": 5455,
@@ -595,7 +595,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T10:23:36Z",
-                "open_issues": 621,
+                "open_issues": 623,
                 "owner": "vyperlang",
                 "repo": "vyper",
                 "stars": 5184,
@@ -791,7 +791,7 @@
                 "open_issues": 0,
                 "owner": "matter-labs-archive",
                 "repo": "awesome-zero-knowledge-proofs",
-                "stars": 5848,
+                "stars": 5849,
                 "topics": [
                   "explaining-snarks",
                   "knowledge-proofs",
@@ -818,7 +818,7 @@
                 "open_issues": 121,
                 "owner": "Zokrates",
                 "repo": "ZoKrates",
-                "stars": 1872,
+                "stars": 1874,
                 "topics": [
                   "ethereum",
                   "language",
@@ -924,7 +924,7 @@
                 "open_issues": 25,
                 "owner": "nucypher",
                 "repo": "nufhe",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -979,7 +979,7 @@
                 "open_issues": 11,
                 "owner": "akula-bft",
                 "repo": "akula",
-                "stars": 786,
+                "stars": 787,
                 "topics": [
                   "blockchain",
                   "client",
@@ -1014,7 +1014,7 @@
                 "open_issues": 129,
                 "owner": "transmissions11",
                 "repo": "solmate",
-                "stars": 4301,
+                "stars": 4302,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -1120,7 +1120,7 @@
                 "open_issues": 24,
                 "owner": "spruceid",
                 "repo": "siwe",
-                "stars": 1123,
+                "stars": 1124,
                 "topics": [
                   "ethereum",
                   "identity"
@@ -1140,8 +1140,8 @@
                 "id": 448159458,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T09:21:16Z",
-                "open_issues": 90,
+                "last_commit": "2026-11-10T05:19:27Z",
+                "open_issues": 94,
                 "owner": "foundry-rs",
                 "repo": "book",
                 "stars": 966,
@@ -1172,7 +1172,7 @@
                 "open_issues": 8,
                 "owner": "0xcert",
                 "repo": "framework",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "0xcert",
                   "asset",
@@ -1231,7 +1231,7 @@
                 "id": 904431879,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-04T16:41:20Z",
+                "last_commit": "2026-11-10T07:54:39Z",
                 "open_issues": 89,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-relayer",
@@ -1372,11 +1372,11 @@
                 "id": 147802356,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T09:26:22Z",
-                "open_issues": 238,
+                "last_commit": "2026-11-09T17:07:13Z",
+                "open_issues": 239,
                 "owner": "Consensys-Incorporated",
                 "repo": "teku",
-                "stars": 786,
+                "stars": 787,
                 "topics": [
                   "beacon-chain",
                   "consensys",
@@ -1692,7 +1692,7 @@
                 "id": 236525992,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-09T11:26:08Z",
+                "last_commit": "2026-11-10T12:31:16Z",
                 "open_issues": 0,
                 "owner": "MetaMask",
                 "repo": "metamask-storybook",
@@ -1770,7 +1770,7 @@
             "open_issues": 20,
             "owner": "pashov",
             "repo": "skills",
-            "stars": 1303,
+            "stars": 1306,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1888,10 +1888,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-07T19:45:54Z",
-                "open_issues": 2588,
+                "open_issues": 2613,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 497480,
+                "stars": 497797,
                 "topics": [
                   "api",
                   "apis",
@@ -1968,7 +1968,7 @@
                 "open_issues": 37,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5396,
+                "stars": 5397,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -1989,7 +1989,7 @@
                 "open_issues": 37,
                 "owner": "Consensys",
                 "repo": "ethereum-developer-tools-list",
-                "stars": 5396,
+                "stars": 5397,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -2135,7 +2135,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-21T14:23:58Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "igorbarinov",
                 "repo": "awesome-bitcoin",
                 "stars": 1357,
@@ -2243,7 +2243,7 @@
                 "open_issues": 0,
                 "owner": "kay-is",
                 "repo": "web3-from-zero",
-                "stars": 327,
+                "stars": 328,
                 "topics": [
                   "blockchain",
                   "javascript",
@@ -2686,7 +2686,7 @@
                 "open_issues": 10,
                 "owner": "ethereum",
                 "repo": "annotated-spec",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -2720,7 +2720,7 @@
                 "open_issues": 127,
                 "owner": "dethcrypto",
                 "repo": "TypeChain",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": [
                   "abi",
                   "blockchain",
@@ -2746,11 +2746,11 @@
                 "id": 107120334,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T20:37:01Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-10T12:03:04Z",
+                "open_issues": 15,
                 "owner": "protofire",
                 "repo": "solhint",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "ast",
                   "code-quality",
@@ -2932,7 +2932,7 @@
                 "open_issues": 2,
                 "owner": "0xngmi",
                 "repo": "ideas",
-                "stars": 372,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -2960,7 +2960,7 @@
                 "open_issues": 344,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27355,
+                "stars": 27354,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -3087,7 +3087,7 @@
                 "open_issues": 0,
                 "owner": "sec-bit",
                 "repo": "tokenlibs-with-proofs",
-                "stars": 99,
+                "stars": 100,
                 "topics": [
                   "coq",
                   "erc20",
@@ -3205,7 +3205,7 @@
                 "open_issues": 344,
                 "owner": "OpenZeppelin",
                 "repo": "openzeppelin-contracts",
-                "stars": 27355,
+                "stars": 27354,
                 "topics": [
                   "ethereum",
                   "evm",
@@ -3332,7 +3332,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-04T22:55:42Z",
-                "open_issues": 518,
+                "open_issues": 519,
                 "owner": "crytic",
                 "repo": "slither",
                 "stars": 6412,
@@ -3361,7 +3361,7 @@
                 "open_issues": 132,
                 "owner": "ConsenSysDiligence",
                 "repo": "mythril",
-                "stars": 4278,
+                "stars": 4279,
                 "topics": [
                   "blockchain",
                   "ethereum",
@@ -3575,7 +3575,7 @@
                 "open_issues": 18,
                 "owner": "Ackee-Blockchain",
                 "repo": "trident",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "anchor",
                   "fuzz",
@@ -3713,7 +3713,7 @@
                 "open_issues": 144,
                 "owner": "web3",
                 "repo": "web3.js",
-                "stars": 19904,
+                "stars": 19903,
                 "topics": [
                   "abi-decoders",
                   "abi-encoders",
@@ -3743,7 +3743,7 @@
                 "open_issues": 2,
                 "owner": "scaffold-eth",
                 "repo": "scaffold-eth",
-                "stars": 9034,
+                "stars": 9035,
                 "topics": [
                   "buidler",
                   "create-react-app",
@@ -3861,7 +3861,7 @@
                 "open_issues": 0,
                 "owner": "ethereumjs",
                 "repo": "ethereumjs-util",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "address",
                   "buffer",
@@ -4246,10 +4246,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-30T16:36:05Z",
-                "open_issues": 187,
+                "open_issues": 188,
                 "owner": "ApeWorX",
                 "repo": "web3.py",
-                "stars": 5549,
+                "stars": 5548,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:28.373Z"
@@ -4270,7 +4270,7 @@
                 "open_issues": 148,
                 "owner": "LFDT-web3j",
                 "repo": "web3j",
-                "stars": 5406,
+                "stars": 5407,
                 "topics": [
                   "android",
                   "blockchain",
@@ -4302,7 +4302,7 @@
                 "open_issues": 213,
                 "owner": "gakonst",
                 "repo": "ethers-rs",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "celo",
                   "ethereum",
@@ -4371,8 +4371,8 @@
                 "id": 805282401,
                 "language": "ReScript",
                 "license": null,
-                "last_commit": "2026-11-07T11:49:02Z",
-                "open_issues": 70,
+                "last_commit": "2026-11-10T09:18:20Z",
+                "open_issues": 72,
                 "owner": "enviodev",
                 "repo": "hyperindex",
                 "stars": 573,
@@ -4619,11 +4619,11 @@
                 "id": 188836864,
                 "language": "Go",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-09T13:20:02Z",
-                "open_issues": 790,
+                "last_commit": "2026-11-10T12:58:01Z",
+                "open_issues": 785,
                 "owner": "erigontech",
                 "repo": "erigon",
-                "stars": 3608,
+                "stars": 3617,
                 "topics": [
                   "blockchain",
                   "ethereum"
@@ -4697,7 +4697,7 @@
                 "id": 101194285,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T13:19:34Z",
+                "last_commit": "2026-11-10T13:04:01Z",
                 "open_issues": 208,
                 "owner": "NethermindEth",
                 "repo": "nethermind",
@@ -4728,7 +4728,7 @@
                 "open_issues": 11,
                 "owner": "akula-bft",
                 "repo": "akula",
-                "stars": 786,
+                "stars": 787,
                 "topics": [
                   "blockchain",
                   "client",
@@ -4847,7 +4847,7 @@
                 "open_issues": 15,
                 "owner": "ipfs-inactive",
                 "repo": "js-ipfs-http-client",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": [
                   "ipfs-client",
                   "javascript"
@@ -4871,7 +4871,7 @@
                 "open_issues": 37,
                 "owner": "dbpunk-labs",
                 "repo": "db3",
-                "stars": 385,
+                "stars": 386,
                 "topics": [
                   "blockchain",
                   "database",
@@ -5284,7 +5284,7 @@
                 "open_issues": 64,
                 "owner": "Consensys",
                 "repo": "abi-decoder",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "ethereum",
                   "ethereum-dapp"
@@ -5460,11 +5460,11 @@
             "id": 107120334,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T20:37:01Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-10T12:03:04Z",
+            "open_issues": 15,
             "owner": "protofire",
             "repo": "solhint",
-            "stars": 1128,
+            "stars": 1129,
             "topics": [
               "ast",
               "code-quality",
@@ -5878,7 +5878,7 @@
                 "language": null,
                 "license": "Unlicense",
                 "last_commit": "2026-06-03T14:21:13Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "OffcierCia",
                 "repo": "On-Chain-Investigations-Tools-List",
                 "stars": 1988,
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:25:41.342Z",
+    "last_updated": "2026-11-10T13:03:59.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
@@ -5949,10 +5949,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-11-03T17:59:50Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "OffcierCia",
       "repo": "DeFi-Developer-Road-Map",
-      "stars": 10896,
+      "stars": 10897,
       "topics": [
         "awesome",
         "awesome-list",
